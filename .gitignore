@@ -348,3 +348,22 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# object files.
+*.obj
+*.OBJ
+
+# Listing files.
+*.LST
+*.lst
+
+# Map files.
+*.MAP
+*.map
+
+# DOS executable files.
+*.EXE
+*.exe
+*.COM
+*.com
+
