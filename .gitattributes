@@ -1,1 +1,8 @@
 BIBOOT.ASM diff
+CALL86.ASM diff
+GENGRP.ASM diff
+GIOCAS.ASM diff
+GIOCON.ASM diff
+KANJ86.ASM diff
+MACLNG.ASM diff
+NEXT86.ASM diff
