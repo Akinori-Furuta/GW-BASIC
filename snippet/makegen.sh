@@ -145,6 +145,8 @@ echo $'\t'"TYPE RESP0.TMP RESP1.TMP RESP2.TMP RESP3.TMP RESPS.TMP RESPT.TMP > \$
 echo ""
 
 echo "\$(TRESP): \$(TRESP_SRC)"
+# avoid build error in doxbox
+echo $'\t'"DEL \$(TRESP_OBJ)"
 echo $'\t'"\$(AS) \$(ASFLAGS) \$(TRESP_SRC), \$(TRESP_OBJ), \$(TRESP_LST)"
 echo $'\t'"\$(LINK) /t \$(TRESP_OBJ), \$<, \$(TRESP_MAP)"
 echo ""
