@@ -1,4 +1,11 @@
-# Microsoft GW-BASIC Interpreter Source Code
+# Microsoft GW-BASIC Interpreter Source Code (SOME LOW LEVEL IO FUNCTIONS ARE MISSING)
+
+> This repositroy is cloned from [GW-BASIC repository](https://github.com/Microsoft/GW-BASIC/).
+>
+> And tried to build by Borland Turbo Assembler and tools. Some commnts fix
+> errors and help build process.
+>
+> But, I found that some low level I/O functions are missing.
 
 This repo contains the original source-code for Microsoft's GW-BASIC interpreter, as of 1983.
 
