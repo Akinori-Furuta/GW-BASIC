@@ -367,3 +367,8 @@ MigrationBackup/
 *.COM
 *.com
 
+# Temporally files.
+
+*.TMP
+GWBASIC.LNK
+
