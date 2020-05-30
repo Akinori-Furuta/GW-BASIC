@@ -116,7 +116,7 @@ m   macro
     n
 endm
 ?&s macro
-&endm
+endm
 endm
 
 ;
