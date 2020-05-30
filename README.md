@@ -2,7 +2,7 @@
 
 > This repositroy is cloned from [GW-BASIC repository](https://github.com/Microsoft/GW-BASIC/).
 >
-> And tried to build by Borland Turbo Assembler and tools. Some commnts fix
+> And tried to build by Borland Turbo Assembler and tools. Some commits fix
 > errors and help build process.
 >
 > But, I found that some low level I/O functions are missing.
